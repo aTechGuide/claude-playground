@@ -7,3 +7,12 @@ It includes coding guidelines and is intended for learning and prototyping softw
 ## Contents
 - CLAUDE.md
 - Skills
+
+
+## Plugins URLs / Commands
+
+- https://code.claude.com/docs/en/discover-plugins
+
+- Command : /plugin install plugin-name@claude-plugins-official
+
+- Command : /plugin marketplace add anthropics/skills
